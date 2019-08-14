@@ -1,0 +1,11 @@
+{
+  "name": "test-chrome-extension-activetab-webrequest",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "minimum_chrome_version": "70",
+  "permissions": ["activeTab"]
+}
